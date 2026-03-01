@@ -1,0 +1,12 @@
+# Step 1 — Story Generator
+google-genai>=1.0.0
+
+# Step 2 — Voice Generator
+google-cloud-texttospeech>=2.16.0
+
+# Step 3 — Video Creator
+requests>=2.31.0
+pillow>=10.0.0
+# FFmpeg — install separately:
+#   Windows: winget install ffmpeg
+#   Docs:    https://ffmpeg.org/download.html
